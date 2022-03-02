@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://Oscarandio.github.io/avocado',
+    baseUrl: 'https://Oscarandio.github.io/avocados',
   },
 }
